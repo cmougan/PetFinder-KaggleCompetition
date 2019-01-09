@@ -1,2 +1,2 @@
 # PetFinder-KaggleCompetition
-Pet Finder - Kaggle Competition
+Data science competition where i was placing top 10% in 01/01/19
